@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.deps/
+data/
+test-results/
+*.log
+deploy/*.zip
